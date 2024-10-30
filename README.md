@@ -84,6 +84,8 @@
 **d-) Soluções Futuras:** Nessa seção, o que grupo faria para melhorar seus testes (não precisa implementar essas propostas de melhorias).<br>
 - A substituição das baterias por outro modelo com voltagem e duração corretas.
 
+<br>
+
 Clique aqui para acessar **toda a visualização da Apresentação** de nosso projeto: [Apresentação](https://www.canva.com/design/DAGFS6GM3Aw/0-2xlqHYrZxdfv8g3aQgjA/edit?utm_content=DAGFS6GM3Aw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
 
 Clique aqui para acessar **o video Explicativo** de nosso projeto: [Video](https://youtu.be/_0JSFxbW1Z4?si=JQcMbvTRka8SGTjX). 👈 <br>

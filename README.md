@@ -48,6 +48,42 @@
 <img src="scr/assets/Site.png" alt="Site">
 </p>
 
+## Testes de Desempenho 📈
+
+### Teste de Precisão de localização 📍
+
+**a-) Definição da Ferramenta de Teste:** Nessa seção o grupo deve descrever o que ela faz e como faz; <br>
+- O ESP32 faz uma leitura de todas as redes wifis disponíveis próximas, pega as 3 mais fortes/mais perto e compara com o que seria a localização divididas em 3 roteadores, exemplo:
+  
+<p align="center"><br>
+1 local : redes A,B e C<br>
+2 local: redes B,C e D
+</p>
+<br>
+
+**b-) Evidências de Testes:** Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados; <br>
+
+**c-) Discussão dos Resultados:** Nessa seção o grupo deve descrever se o teste foi satisfatório ou não;<br>
+- Não foi satisfatório, a leitura das redes ficou muito volátil, o que causa confusão na hora de comparar com os locais.
+
+**d-) Soluções Futuras:** Nessa seção, o que grupo faria para melhorar seus testes (não precisa implementar essas propostas de melhorias).<br>
+- Uma possibilidade seria a instalação de uma antena para melhorar a precisão da leitura
+  
+<br>
+
+### Teste de Capacidade Multidispositivo Simultâneos ⚡
+
+**a-) Definição da Ferramenta de Teste:** Nessa seção o grupo deve descrever o que ela faz e como faz; <br>
+- Utilizamos 2 baterias para energizar tanto o ESP32 quanto o sensor HX711.
+
+**b-) Evidências de Testes:** Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados; <br>
+
+**c-) Discussão dos Resultados:** Nessa seção o grupo deve descrever se o teste foi satisfatório ou não;<br>
+- A duração da bateria não foi ideal e a necessidade do uso de duas baterias atrapalha a praticidade do sistema.
+
+**d-) Soluções Futuras:** Nessa seção, o que grupo faria para melhorar seus testes (não precisa implementar essas propostas de melhorias).<br>
+- A substituição das baterias por outro modelo com voltagem e duração corretas.
+
 Clique aqui para acessar **toda a visualização da Apresentação** de nosso projeto: [Apresentação](https://www.canva.com/design/DAGFS6GM3Aw/0-2xlqHYrZxdfv8g3aQgjA/edit?utm_content=DAGFS6GM3Aw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
 
-Clique aqui para acessar **o video Explicativo** de nosso projeto: [Video](https://www.youtube.com/watch?v=fd72xDK9Gok). 👈 <br>
+Clique aqui para acessar **o video Explicativo** de nosso projeto: [Video](https://youtu.be/_0JSFxbW1Z4?si=JQcMbvTRka8SGTjX). 👈 <br>

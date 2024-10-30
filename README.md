@@ -63,6 +63,10 @@
 
 **b-) Evidências de Testes:** Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados; <br>
 
+<p align="center">
+<img src="scr/assets/Teste1.png" alt="Site">
+</p>
+
 **c-) Discussão dos Resultados:** Nessa seção o grupo deve descrever se o teste foi satisfatório ou não;<br>
 - Não foi satisfatório, a leitura das redes ficou muito volátil, o que causa confusão na hora de comparar com os locais.
 
@@ -77,6 +81,10 @@
 - Utilizamos 2 baterias para energizar tanto o ESP32 quanto o sensor HX711.
 
 **b-) Evidências de Testes:** Nessa seção precisa evidenciar o está sendo realizado, como prints da sua tela demonstrando os resultados; <br>
+
+<p align="center">
+<img src="scr/assets/Teste2.png" alt="Site">
+</p>
 
 **c-) Discussão dos Resultados:** Nessa seção o grupo deve descrever se o teste foi satisfatório ou não;<br>
 - A duração da bateria não foi ideal e a necessidade do uso de duas baterias atrapalha a praticidade do sistema.
